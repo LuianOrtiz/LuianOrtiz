@@ -22,9 +22,9 @@ Here are some ideas to get you started:
  ``` js
 
  const stack = {
+    areas: ["DataScience", "Backend"]
     language: ["JavaScript", "C#", "PHP", "Python"],
     frameworks: ["NodeJS", "Laravel" , "VueJS"],
-    areas: ["DataScience", "Backend"]
  }
 
  ``` 
