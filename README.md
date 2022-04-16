@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **LuianOrtiz/LuianOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="BannerReadme.png" alt="banner">
+
+- Software Engineering Student 👨‍💻 
+- I'm currently learning about Data Science fundamentals and Backend Developer
+
+ ``` js
+
+ const stack = {
+    lenguage: ["JavaScript", "C#", "PHP", "Python"],
+    frameworks: ["NodeJS", "Laravel" , "VueJS"],
+    areas: ["DataScience", "Backend"]
+ }
+
+ ``` 
+
