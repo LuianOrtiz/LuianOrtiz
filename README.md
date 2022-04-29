@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="BannerReadme.png" alt="banner">
+<img src="Banner.png" alt="banner">
 
 - Software Engineering Student 👨‍💻 
 - I'm currently learning about Data Science fundamentals and Backend Developer
