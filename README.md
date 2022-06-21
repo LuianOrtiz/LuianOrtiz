@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  const stack = {
     areas: ["DataScience", "Backend"],
     languages: ["JavaScript", "C#", "PHP", "Python"],
-    frameworks: ["NodeJS", "Laravel" , "VueJS"]
+    frameworks: ["NodeJS", "VueJS", "Laravel", "Django"]
  }
 
  ``` 
