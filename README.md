@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Banner.png" alt="banner">
+<img src="Banner_GitHub.png" alt="banner">
 
 - Software Engineering Student 👨‍💻 
-- I'm currently learning about Data Science fundamentals and Backend Developer
+- I'm currently learning Data Science and Backend Developer
 
  ``` js
 
  const stack = {
     areas: ["DataScience", "Backend"],
-    languages: ["JavaScript", "C#", "PHP", "Python"],
-    frameworks: ["NodeJS", "VueJS", "Laravel", "Django"]
+    languages: ["Python", "JavaScript", "C#", "PHP"],
+    frameworks: [ "Django", "NodeJS", "VueJS", "Laravel"]
  }
 
  ``` 
