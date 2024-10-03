@@ -13,18 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <img src="Banner_GitHub.png" alt="banner">
+-->
 
-- Software Engineering Student 👨‍💻 
-- I'm currently learning Data Science and Backend Developer
+- Product Analyst 👨‍💻 
+- I am currently working on analyzing and development product
 
  ``` js
 
  const stack = {
-    areas: ["DataScience", "Backend"],
-    languages: ["Python", "JavaScript", "C#", "PHP"],
-    frameworks: [ "Django", "NodeJS", "VueJS", "Laravel"]
+    areas: ["DataScience", "Product", "Corporate Venture Capital"],
+    languages: ["Python", "JavaScript", "PHP"],
+    frameworks: [ "Django", "NodeJS", "VueJS", "Laravel"],
+    methodologies: [ "Design Thinking", "Agile"]
  }
 
  ``` 
